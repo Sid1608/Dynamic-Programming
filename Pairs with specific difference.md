@@ -1,3 +1,10 @@
+
+
+### [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1)
+Author:@Siddharth Akar<br>
+Problem Statement:
+
+
 ## Approach1(Two Pointer)
 
 ``` cpp
